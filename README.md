@@ -70,10 +70,11 @@ python bender ai power (v1).py
 ## 🖥️ Executável (.exe)
 
 Se preferir, você pode usar a versão **.exe** do programa, sem precisar abrir o terminal ou instalar o Python.  
-Basta baixar, abrir e começar a usar com seu microfone ativado.
+Basta baixar, extrair o arquivo `.zip` e executar o programa com seu microfone ativado.
+
+🔽 [Clique aqui para baixar o Bender AI Power (.exe)](https://www.mediafire.com/file/bv2oohlw541y9f7/BENDER+AI+POWER+(V1).zip/file)
 
 > Ideal para quem quer praticidade e não quer lidar com código.
-
 
 ---
 
