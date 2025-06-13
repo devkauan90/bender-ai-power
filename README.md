@@ -15,7 +15,7 @@ O **Bender AI Power** é um assistente de voz voltado para apresentações, leit
 Você fala, ele executa ações como **avançar** ou **voltar slides**, **subir** ou **descer** a página — ideal para uso com apresentações, PDF viewers ou navegadores.
 
 > 🧑‍💻 Desenvolvido por [DevKauan](https://github.com/devkauan90)  
-> 💼 [Portfólio](https://ghh-gh23.vercel.app/)
+> 💼 [Portfólio](https://devkauan.vercel.app/)
 
 ---
 
